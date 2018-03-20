@@ -1,3 +1,6 @@
+# October 23, 2017
+# A calculator that is only allowed to use addition but also supports subtraction, multiplication, and division
+
 def calculator(uncalculated):
     for i, letter in enumerate(uncalculated):
         if i == 0:
