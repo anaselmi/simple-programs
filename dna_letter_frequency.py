@@ -1,3 +1,6 @@
+# September 1, 2017
+# Checks if a string is valid dna and returns the amount of each letter
+
 def dna_letter_frequency(s):
 	a_count = 0
 	c_count = 0
