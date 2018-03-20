@@ -1,2 +1,2 @@
-# simple-programs
-A few programs I implemented in Python
+# Simple Programs
+A few small programs I wrote while learning how to program.
