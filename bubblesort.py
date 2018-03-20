@@ -1,6 +1,5 @@
 #June 17, 2017
 #This function is a bubblesort that only looks at unsorted variables in a list
-#NEED TO COMMENT THIS
 def bubble_sort(unsorted):
     #This is the list we are trying to sort
     final = unsorted
