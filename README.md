@@ -1,2 +1,2 @@
 # Simple Programs
-A few small programs I wrote while learning how to program.
+Miscellaneous programs written in Python. A lot of these were written as I was learning Python.
